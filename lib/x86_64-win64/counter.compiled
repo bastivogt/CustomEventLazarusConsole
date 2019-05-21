@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1317892579"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiD:\public\dev\lazarus\CustomEventsConsole\lib\x86_64-win64 -FuD:\public\dev\lazarus\CustomEventsConsole\ -FUD:\public\dev\lazarus\CustomEventsConsole\lib\x86_64-win64\ -FED:\public\dev\lazarus\CustomEventsConsole\ -oD:\public\dev\lazarus\CustomEventsConsole\counter.exe counter.lpr"/>
+</CONFIG>
